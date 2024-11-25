@@ -1,0 +1,239 @@
+.container{
+    width: fit-content;
+    height: fit-content;
+}
+.container1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    background-color: transparent;
+    height: 400px;
+    width: 100%;
+}
+.card1{
+    width: 200px;
+    height: 350px;
+    /* margin: 0 auto ; */
+    margin-top: -50px;
+    margin-right: 5px;
+    background-color: transparent;
+}
+.imgc1{
+    width: 200px;
+    height: 300px;
+}
+.card2{
+    width: 200px;
+    height: 350px;
+    /* margin: 0 auto ; */
+    margin-top: -50px;
+    margin-right: 5px;
+    background-color: transparent;
+}
+.card3{
+    width: 200px;
+    height: 350px;
+    /* margin: 0 auto ; */
+    margin-top: -50px;
+    margin-right: 5px;
+    background-color: transparent;
+}
+.card4{
+    width: 200px;
+    height: 350px;
+    /* margin: 0 auto ; */
+    margin-top: -50px;
+    margin-right: 5px;
+    background-color:transparent;
+}
+.card5{
+    width: 200px;
+    height: 350px;
+    /* margin: 0 auto ; */
+    margin-top: -50px;
+    margin-right: 10px;
+    background-color:transparent;
+}
+.cbutton{
+    background-color: transparent;
+    border: none;
+}
+.size1{
+    margin-left: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-style: normal;
+    font-size: 12px;
+    color: black;
+}
+.contain{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.b1{
+    
+    width: 150px;
+    border-radius: 20px 20px 20px;
+    color:gray;
+    background-color:transparent;
+}
+.container2{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+    background-color: transparent;
+    height: 400px;
+    width: 100%;
+}
+.fasun{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: -450px;
+    font: 20px Futura, sans-serif;
+}
+.card12{
+    width: 250px;
+    height: 375px;
+    /* margin: 0 auto ; */
+    margin-top: -25px;
+    margin-right: 8px;
+    background-color: transparent;
+}
+.card22{
+    width: 250px;
+    height: 375px;
+    /* margin: 0 auto ; */
+    margin-top: -25px;
+    margin-right: 8px;
+    background-color: transparent;
+}
+.card32{
+    width: 250px;
+    height: 375px;
+    /* margin: 0 auto ; */
+    margin-top: -25px;
+    margin-right: 8px;
+    background-color: transparent;
+}
+.card42{
+    width: 250px;
+    height: 375px;
+    /* margin: 0 auto ; */
+    margin-top: -25px;
+    margin-right: 13px;
+    background-color:transparent;
+}
+.imgc2{
+    width: 250px;
+    height: 375px;
+    margin-top: -1px;
+    border-radius: 20px 20px 20px;
+} 
+.card12 img{
+    transition: transform 0.1s ease-in-out;
+}
+.card12 img:hover {
+    transform: scale(1.025);
+}
+.card22 img{
+    transition: transform 0.1s ease-in-out;
+}
+.card22 img:hover {
+    transform: scale(1.025);
+}
+.card32 img{
+    transition: transform 0.1s ease-in-out;
+}
+.card32 img:hover {
+    transform: scale(1.025);
+}
+.card42 img{
+    transition: transform 0.1s ease-in-out;
+}
+.card42 img:hover {
+    transform: scale(1.025);
+}
+.card52 img{
+    transition: transform 0.1s ease-in-out;
+}
+.card52 img:hover {
+    transform: scale(1.025);
+}
+.size2{
+    position: absolute;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 15px;
+    color:black;
+    margin-top: -30PX;
+    margin-left: 35px;
+}
+.b12{
+    width: 150px;
+    margin-right: 8px;
+    border-radius: 20px 20px 20px;
+    color: black;
+    background-color: transparent;
+}
+.b13{
+    width: 150px;
+    margin-right: 6px;
+    border-radius: 20px 20px 20px;
+    color: black;
+    background-color: transparent;
+}
+.fix{
+    position: absolute;
+}
+.sidefixb{
+   border-radius: 15px 15px 15px;
+    display: flexbox;
+    margin-left: 900px;
+}
+.card13{
+    width: 250px;
+    height: 375px;
+    /* margin: 0 auto ; */
+    margin-top: -25px;
+    margin-right: 8px;
+    background-color: transparent;
+    border-radius: 0px;
+    margin-bottom: 75px;
+}
+.card23{
+    width: 250px;
+    height: 375px;
+    /* margin: 0 auto ; */
+    margin-top: -25px;
+    margin-right: 8px;
+    background-color: transparent;
+    margin-bottom: 75px;
+}
+.card33{
+    width: 250px;
+    height: 375px;
+    /* margin: 0 auto ; */
+    margin-top: -25px;
+    margin-right: 8px;
+    background-color: transparent;
+    margin-bottom: 75px;
+}
+.card43{
+    width: 250px;
+    height: 375px;
+    /* margin: 0 auto ; */
+    margin-top: -25px;
+    margin-right: 13px;
+    background-color:transparent;
+    margin-bottom: 75px;
+}
+.imgc3{
+    width: 250px;
+    height: 375px;
+}

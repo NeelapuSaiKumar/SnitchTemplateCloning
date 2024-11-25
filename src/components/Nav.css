@@ -1,0 +1,55 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    background-color: transparent;
+    margin-top:  -12px;
+    border: none;
+    size: 80;
+}
+.profile{
+    background-color: transparent;
+    margin-top:  -12px;
+    border: none;
+    margin-right: 5px;
+    size: 80;
+}
+.search{
+    background-color: transparent;
+    margin-top:  -12px;
+    border: none;
+    margin-right: 5px;
+    size: 80;
+}
+.cart{
+    background-color: transparent;
+    margin-top:  -12px;
+    border: none;
+    margin-right: 5px;
+    size: 80;
+}
+.heart{
+    background-color: transparent;
+    margin-top:  -12px;
+    border: none;
+    margin-right: 5px;
+    size: 80;
+}
+.gift{
+    background-color: transparent;
+    margin-top:  -12px;
+    border: none;
+    margin-right: 5px;
+    size: 80;
+}
+.imagee{
+    margin: 0 auto;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 200px; 
+    height: 80px; 
+    margin-top: 5px;
+}

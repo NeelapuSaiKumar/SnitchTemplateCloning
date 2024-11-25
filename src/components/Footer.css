@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 12px;
+    border: whitesmoke;
+}
+.container{
+    margin-top:80px;
+    width: 100%;
+}
+.icon{
+    
+    width:fit-content;
+    height:fit-content;
+    background-color: transparent;
+    border: none;
+}
+.underline{
+    text-decoration: underline;
+    border-bottom-color: black;
+    height:'20px';
+    width:'200px';
+    border:none;
+}

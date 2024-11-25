@@ -1,0 +1,16 @@
+{
+    "slides":[
+        {
+        "src":"https://www.snitch.co.in/cdn/shop/files/1_MobileBanner_1080x1350_577f9192-58b9-4c5a-ba6f-4d7ab1308eb5_400x.jpg",
+        "alt":"carousal1"
+        },
+        {
+            "src":"https://www.snitch.co.in/cdn/shop/files/3_Shirts.jpg",
+        "alt":"carousal2"
+        },
+        {
+            "src":"https://www.snitch.co.in/cdn/shop/files/Jackets_optional.jpg",
+        "alt":"carousal1"
+        }
+      ]
+}

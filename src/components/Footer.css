@@ -1,3 +1,7 @@
+
+.fontedstyling{
+font-family: 'Courier New', Courier, monospace;
+}
 .footer{
     display: flex;
     align-items: center;

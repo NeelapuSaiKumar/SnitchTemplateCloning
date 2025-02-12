@@ -4,7 +4,7 @@ import { FaEarthAfrica,FaInstagram,FaPinterest,FaTwitter,FaYoutube,FaLinkedinIn,
 function Footer(){
     return(
         <>
-        <footer>
+        <footer className='fontedstyling'>
         <div className="container w-100">
             <div className="row">
                 <div className="col">
